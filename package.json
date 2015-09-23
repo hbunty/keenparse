@@ -1,0 +1,27 @@
+{
+  "name": "keenparse",
+  "version": "0.0.1",
+  "description": "An asynchronous boilerplate tag parser for bootstrapping your own templating system.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hbunty/keenparse.git"
+  },
+  "keywords": [
+    "templates",
+    "template",
+    "engine",
+    "templating",
+    "tag",
+    "parser"
+  ],
+  "author": "Hunter Mueller",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hbunty/keenparse/issues"
+  },
+  "homepage": "https://github.com/hbunty/keenparse"
+}
